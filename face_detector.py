@@ -33,9 +33,18 @@ while True:
     if key==81 or key==113:
         break
 
+#code completed
 
 
+        
+        
 
+        
+        
+        
+        
+        
+        
 # Same face detection over a specific image:-
 
 #Choose an image to detect faces in :
